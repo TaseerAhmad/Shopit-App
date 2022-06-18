@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopit</string>
+    <string name="greeting_main">Hello Taseer ✌</string>
+    <string name="saved_bottom_nav">Saved</string>
+    <string name="cart_bottom_nav">Cart</string>
+    <string name="home_bottom_nav">Home</string>
+    <string name="account_bottom_nav">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications_bottom_nav">Notifications</string>
+</resources>
